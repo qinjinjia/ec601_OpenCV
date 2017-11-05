@@ -38,18 +38,17 @@ A1.
 
 **Q2. Print out the values of the pixel at (20,25) in the RGB, YCbCr and HSV versions of the image. What are the ranges of pixel values in each channel of each of the above mentioned colorspaces?**
 
-|Pixel |Value |
-|---|---
-|RGB| |
-|R(20,25) |225 |
-|G(20,25) |122 |
-|B(20,25) |106 |
-|Y(20,25) |151 |
-|Cb(20,25) |181 |
-|Cr(20,25) |103 |
-|Hue(20,25) |4 |
-|Saturation(20,25) |135 |
-|Value(20,25) |225 |
+|Colorspace |Pixel |Value |
+|---|---|---
+|RGB |R(20,25) |225 |
+||G(20,25) |122 |
+||B(20,25) |106 |
+|YCbCr|Y(20,25) |151 |
+||Cb(20,25) |181 |
+||Cr(20,25) |103 |
+|HSV |Hue(20,25) |4 |
+||Saturation(20,25) |135 |
+||Value(20,25) |225 |
 
 
 
