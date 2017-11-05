@@ -25,9 +25,9 @@ A1.
      
 |Row |Left |Mid |Right |     
 |---|---|---|---|---     
-|1|RBG |Blue |Green |Red |
-|2|YCbCr |Y |Cb |Cr |
-|3|HSV |Hue |Saturation |Value | 
+|1 |RBG |Blue |Green |Red |
+|2 |YCbCr |Y |Cb |Cr |
+|3 |HSV |Hue |Saturation |Value | 
 
 :point_down:
     
