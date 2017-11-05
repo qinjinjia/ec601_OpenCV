@@ -17,10 +17,10 @@ order of the pixel structure?**
 ## Exercise 2
 **Q1. ColorImage.cpp is a program that takes a look at colorspace conversions in OpenCV. Run the code in ColorImage.cpp and comment on the outputs. Implement the same thing in Python and save each image.**
 
-#### * Comment on the output of ColorImage:
+* Comment on the output of ColorImage:
 
 
-#### * Implement ColorImage.cpp in Python:    
+* Implement ColorImage.cpp in Python:    
 :sun_with_face: Please check the **ColorImage.py code** here :link: **[ColorImage.py](https://github.com/qinjinjia/ec601_OpenCV/blob/master/ColorImage.py)**
 
 
