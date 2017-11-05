@@ -51,6 +51,24 @@ A1.
 ||Value(20,25) |225 |
 
 
+|Colorspace |Channel |Range |
+|---|---|---
+|LAB |Lightness |0~100 |
+||A |-128~127 |
+||B |-128~127 |
+|RGB |R |0~225 |
+||G |0~225 |
+||B |0~225 |
+|YCbCr|Y |151 | 
+||Cb |181 |
+||Cr |103 |
+| |Hue |4 |
+||Saturation |135 |
+||Value |225 |
+|CMYK |Cyan |0~100 |
+||Magenta |0~100 |
+||Yellow |0~100 |
+||Key |0~100 |
 
 
 ## Exercise 3
