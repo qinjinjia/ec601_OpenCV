@@ -45,5 +45,3 @@ A1.
 **Q3. When is Adaptive Threshold useful?**
 
 
-
-Copyright 2017 Qinjin Jia qjia@bu.edu
