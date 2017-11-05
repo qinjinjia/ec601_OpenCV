@@ -28,6 +28,7 @@ order of the pixel structure?**
 
 :new_moon_with_face: The **Saved Images** can also be found below, :point_down:     
 
+N.B. The images are shown in **1-channel greyscale** format
 
 |Row |Colorspace |Left |Mid |Right |     
 |---|---|---|---|---    
