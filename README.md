@@ -23,8 +23,8 @@ A1.
      saved image from CplorImage.py
      
      
-|Row |Left |Mid |Right |     
-|---|---|---|---    
+|Row |Col |Left |Mid |Right |     
+|---|---|---|---|---    
 |1 |RBG |Blue |Green |Red |
 |2 |YCbCr |Y |Cb |Cr |
 |3 |HSV |Hue |Saturation |Value | 
