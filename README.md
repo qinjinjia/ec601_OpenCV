@@ -39,7 +39,7 @@ A1.
 **Q2. Print out the values of the pixel at (20,25) in the RGB, YCbCr and HSV versions of the image. What are the ranges of pixel values in each channel of each of the above mentioned colorspaces?**
 
 |Point |Value |
-|---|---|---
+|---|---
 |R(20,25) |225 |
 |G(20,25) |122 |
 |B(20,25) |106 |
