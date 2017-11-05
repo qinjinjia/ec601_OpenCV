@@ -12,7 +12,7 @@
 **Q1. How does a program read the cvMat object, in particular, what is the
 order of the pixel structure?**
 
-'''
+```
 [[[125 137 226]
 
   [125 137 226]
@@ -40,7 +40,7 @@ order of the pixel structure?**
   [ 79  70 179]
   [ 81  71 181]
   [ 81  74 185]]]
-'''
+```
 
 </br>
 
