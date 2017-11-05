@@ -20,7 +20,7 @@ A1.
      
      saved image from CplorImage.py
      
-<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Blue.png" width="200" height="200"><img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Green.png" width="200" height="200"><img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Red.png" width="200" height="200">
+<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Blue.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Green.png" width="200" height="200"><img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Red.png" width="200" height="200">
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Y.png" width="200" height="200"><img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Cb.png" width="200" height="200"><img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Cr.png" width="200" height="200">
 
