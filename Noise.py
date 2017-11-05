@@ -1,6 +1,6 @@
 # Copyright 2017 Qinjin Jia qjia@bu.edu
 
-""" EC601_OpenCV_Exercise 2 smoothing
+""" EC601_OpenCV_Exercise 3 smoothing
     type python Noise.py IMAGE_NAME in terminal to run
     python Noise.py cameraman.png, for instance"""
 
