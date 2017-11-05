@@ -79,8 +79,7 @@ order of the pixel structure?**
 ||Value(20,25) |225 | 0~255|
 
 
-
-CV_8U image
+The range of each channel is based on CV_8U image in OpenCV
 
 
 |Colorspace |Channel |Range |
