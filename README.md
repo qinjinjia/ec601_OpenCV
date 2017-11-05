@@ -20,11 +20,10 @@ order of the pixel structure?**
 **A1.** 
 #### Comment on the output of ColorImage:
 
-#### Implement ColorImage.cpp in Python: 
-    
-     Please check the ColorImage.py code here :link: **[ColorImage.py](https://github.com/qinjinjia/ec601_OpenCV/blob/master/ColorImage.py)**
+#### Implement ColorImage.cpp in Python:    
+Please check the ColorImage.py code here :link: **[ColorImage.py](https://github.com/qinjinjia/ec601_OpenCV/blob/master/ColorImage.py)**
      
-     :link:[exercise2_py_results](https://github.com/qinjinjia/ec601_OpenCV/tree/master/exercise2_py_results)
+:link:[exercise2_py_results](https://github.com/qinjinjia/ec601_OpenCV/tree/master/exercise2_py_results)
      saved image from CplorImage.py
      
      
