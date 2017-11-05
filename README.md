@@ -56,15 +56,15 @@ A1.
 |LAB |Lightness |0~100 |
 ||A |-128~127 |
 ||B |-128~127 |
-|RGB |R |0~225 |
-||G |0~225 |
-||B |0~225 |
+|RGB |R |0~255 |
+||G |0~255 |
+||B |0~255 |
 |YCbCr|Y |151 | 
 ||Cb |181 |
 ||Cr |103 |
-| |Hue |4 |
-||Saturation |135 |
-||Value |225 |
+|HSV |Hue |0~179 |
+||Saturation |0~255 |
+||Value |0~255 |
 |CMYK |Cyan |0~100 |
 ||Magenta |0~100 |
 ||Yellow |0~100 |
