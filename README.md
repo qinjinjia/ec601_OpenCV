@@ -81,7 +81,7 @@ order of the pixel structure?**
 
 </br>
 
-:heavy_exclamation_mark: The range of each channel of each colorspace is based on CV_8U image in OpenCV
+:heavy_exclamation_mark: The range of each channel of each colorspace is based on **CV_8U image in OpenCV**.
 
 
 |Colorspace |Channel |Range |
