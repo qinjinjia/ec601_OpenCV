@@ -23,7 +23,7 @@ A1.
      saved image from CplorImage.py
      
      
-|Row |Colorspaces |Left |Mid |Right |     
+|Row |Colorspace |Left |Mid |Right |     
 |---|---|---|---|---    
 |1 |RBG |Blue |Green |Red |
 |2 |YCbCr |Y |Cb |Cr |
