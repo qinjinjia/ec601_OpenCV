@@ -26,7 +26,6 @@ A1.
 |---|---|----
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 |2|`![][foryou]`|![][Blue.png]  
- 
 ```
 [Blue.png]:https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Blue.png    
 ```   
