@@ -29,7 +29,6 @@ A1.
 |2 |YCbCr |Y |Cb |Cr |
 |3 |HSV |Hue |Saturation |Value | 
 
-:point_down:
     
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Blue.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Green.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Red.png" width="200" height="200">
 
