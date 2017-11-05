@@ -20,11 +20,12 @@ order of the pixel structure?**
 **A1.** 
 #### Comment on the output of ColorImage:
 
+
 #### Implement ColorImage.cpp in Python:    
 :sun_with_face: Please check the **ColorImage.py code** here :link: **[ColorImage.py](https://github.com/qinjinjia/ec601_OpenCV/blob/master/ColorImage.py)**
 
 
-:full_moon_with_face: Please check the **Saved Images** from CplorImage.py here :link: **[exercise2_py_results](https://github.com/qinjinjia/ec601_OpenCV/tree/master/exercise2_py_results)**
+:full_moon_with_face: Please check the **Saved Images** from ColorImage.py here :link: **[exercise2_py_results](https://github.com/qinjinjia/ec601_OpenCV/tree/master/exercise2_py_results)**
 
 
 :new_moon_with_face: The **Saved Images** can also be found below, :point_down:     
