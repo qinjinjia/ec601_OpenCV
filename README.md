@@ -22,6 +22,8 @@ A1.
      :link:[exercise2_py_results](https://github.com/qinjinjia/ec601_OpenCV/tree/master/exercise2_py_results)
      saved image from CplorImage.py
      
+     
+|RBG |Blue |Green |Red |     
 |---|---|---|---     
 |RBG |Blue |Green |Red |
 |YCbCr |Y |Cb |Cr |
