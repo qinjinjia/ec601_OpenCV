@@ -5,6 +5,8 @@
   This is the page for **EC601(Fall 2017) A1 OpenCV Exercise** 
   [@github/qinjinjia/ec601_OpenCV](https://github.com/qinjinjia/ec601_OpenCV)
   
+[Exercise 4](#Exercise 4)
+
   The Author: :boy: **Qinjin Jia** qjia@bu.edu   :point_right:[@github/qinjinjia](https://github.com/qinjinjia)
 
 ## Exercise 1
@@ -35,7 +37,7 @@ A1.
 **Q2. Change the kernel sizes for all the filters with all different values for noises and print the results for 3x3, 5x5 and 7x7 kernels. Comment on the results. Which filter seems to work ”better” for images with salt-and-pepper noise and gaussian noise?**
 
 
-## Exercise 4  **[Bonus Part]**
+## Exercise 4
 **Q1. Look at Threshold.cpp and implement the code in Python, and observe the results for different threshold values. Comment on the results.**
 
 **Q2. What are the disadvantages of binary threshold?**
