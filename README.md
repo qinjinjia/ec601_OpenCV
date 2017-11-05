@@ -105,6 +105,8 @@ order of the pixel structure?**
 
 **Ref:** [OpenCV Documentation - Miscellaneous Image Transformations](https://docs.opencv.org/2.4/modules/imgproc/doc/miscellaneous_transformations.html#cvtcolor) (accessed on Nov. 5, 2017)
 
+</br>
+
 ## Exercise 3
 **Q1. Look at the code in Noise.cpp and implement the code in Python. Also, print the results for different noise values in the Gaussian case, mean = 0, 5, 10, 20 and sigma = 0, 20, 50, 100 and for the salt-and-pepper case, pa = 0.01, 0.03, 0.05, 0.4 and pb = 0.01, 0.03, 0.05, 0.4.**
 
@@ -113,17 +115,20 @@ order of the pixel structure?**
 
 #### Comment on the output of ColorImage:
 
-
+</br>
 
 **Q2. Change the kernel sizes for all the filters with all different values for noises and print the results for 3x3, 5x5 and 7x7 kernels. Comment on the results. Which filter seems to work ”better” for images with salt-and-pepper noise and gaussian noise?**
 
-
+</br>
 
 ## Exercise 4
 **Q1. Look at Threshold.cpp and implement the code in Python, and observe the results for different threshold values. Comment on the results.**
 
+</br>
+
 **Q2. What are the disadvantages of binary threshold?**
 
-**Q3. When is Adaptive Threshold useful?**
+</br>
 
+**Q3. When is Adaptive Threshold useful?**
 
