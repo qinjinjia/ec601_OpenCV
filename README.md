@@ -19,6 +19,7 @@ order of the pixel structure?**
 A1. 
      **[ColorImage.py]**()
      
+     :link:[exercise2_py_results](https://github.com/qinjinjia/ec601_OpenCV/tree/master/exercise2_py_results)
      saved image from CplorImage.py
      
     
