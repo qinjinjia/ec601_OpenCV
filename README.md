@@ -39,6 +39,7 @@ A1.
 
 
 ## Exercise 4
+-----------
 **Q1. Look at Threshold.cpp and implement the code in Python, and observe the results for different threshold values. Comment on the results.**
 
 **Q2. What are the disadvantages of binary threshold?**
