@@ -23,11 +23,12 @@ A1.
      saved image from CplorImage.py
      
      
-|RBG |Blue |Green |Red |     
+| |Left |Mid |Right |     
 |---|---|---|---     
 |RBG |Blue |Green |Red |
 |YCbCr |Y |Cb |Cr |
-|HSV |Hue |Saturation |Value |
+|HSV |Hue |Saturation |Value | 
+:point_down:
     
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Blue.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Green.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Red.png" width="200" height="200">
 
