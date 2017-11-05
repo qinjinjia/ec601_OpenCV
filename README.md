@@ -8,8 +8,8 @@
   The Author: :boy: **Qinjin Jia** qjia@bu.edu   :point_right:[@github/qinjinjia](https://github.com/qinjinjia)
 
 ## Exercise 1
-Q1. How does a program read the cvMat object, in particular, what is the
-order of the pixel structure?
+Q1. How does a program read the **cvMat object**, in particular, what is the
+order of the **pixel structure**?
 
 
 ## Exercise 2
