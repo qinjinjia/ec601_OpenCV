@@ -22,7 +22,7 @@ A1.
      :link:[exercise2_py_results](https://github.com/qinjinjia/ec601_OpenCV/tree/master/exercise2_py_results)
      saved image from CplorImage.py
 
-**BRG**:point_right: &emsp;&emsp;&emsp;&emsp; Blue &nbsp;&nbsp;&nbsp;&nbsp; Green &nbsp;&nbsp;&nbsp;&nbsp; Red
+**BRG**:point_right: &emsp;&emsp;&emsp; Blue &nbsp;&nbsp;&nbsp;&nbsp; Green &nbsp;&nbsp;&nbsp;&nbsp; Red
     
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Blue.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Green.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Red.png" width="200" height="200">
 
