@@ -10,6 +10,7 @@
 ## Exercise 1
 
 ## Exercise 2
+1. ColorImage.cpp is a program that takes a look at colorspace conversions in OpenCV. Run the code in ColorImage.cpp and comment on the outputs. Implement the same thing in Python and save each image.
 
 ## Exercise 3
 
