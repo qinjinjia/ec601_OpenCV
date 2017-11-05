@@ -24,10 +24,10 @@ order of the pixel structure?**
 :sun_with_face: Please check the **ColorImage.py code** here :link: **[ColorImage.py](https://github.com/qinjinjia/ec601_OpenCV/blob/master/ColorImage.py)**
 
 
-:full_moon_with_face: Please check the **saved image** from CplorImage.py here :link: **[exercise2_py_results](https://github.com/qinjinjia/ec601_OpenCV/tree/master/exercise2_py_results)**
+:full_moon_with_face: Please check the **Saved Images** from CplorImage.py here :link: **[exercise2_py_results](https://github.com/qinjinjia/ec601_OpenCV/tree/master/exercise2_py_results)**
 
 
-:new_moon_with_face: The **Saved Image** can also be found below,     
+:new_moon_with_face: The **Saved Images** can also be found below, :point_down:     
 
 
 |Row |Colorspace |Left |Mid |Right |     
