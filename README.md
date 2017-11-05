@@ -9,8 +9,7 @@
 
   The Author: :boy: **Qinjin Jia** qjia@bu.edu   :point_right:[@github/qinjinjia](https://github.com/qinjinjia)
 
-Exercise 1
------------
+## Exercise 1
 **Q1. How does a program read the cvMat object, in particular, what is the
 order of the pixel structure?**
 
@@ -38,8 +37,7 @@ A1.
 **Q2. Change the kernel sizes for all the filters with all different values for noises and print the results for 3x3, 5x5 and 7x7 kernels. Comment on the results. Which filter seems to work ”better” for images with salt-and-pepper noise and gaussian noise?**
 
 
-Exercise 4
------------
+## Exercise 4
 **Q1. Look at Threshold.cpp and implement the code in Python, and observe the results for different threshold values. Comment on the results.**
 
 **Q2. What are the disadvantages of binary threshold?**
