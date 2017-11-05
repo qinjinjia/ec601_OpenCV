@@ -63,6 +63,7 @@ order of the pixel structure?**
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Hue.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Saturation.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Value.png" width="200" height="200">
 
+</br>
 
 **Q2. Print out the values of the pixel at (20,25) in the RGB, YCbCr and HSV versions of the image. What are the ranges of pixel values in each channel of each of the above mentioned colorspaces?**
 
@@ -79,7 +80,8 @@ order of the pixel structure?**
 ||Value(20,25) |225 | 0~255|
 
 
-The range of each channel is based on CV_8U image in OpenCV
+
+:heavy_exclamation_mark: The range of each channel is based on CV_8U image in OpenCV
 
 
 |Colorspace |Channel |Range |
