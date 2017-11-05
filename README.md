@@ -14,6 +14,8 @@ order of the **pixel structure**?
 
 ## Exercise 2
 Q1. ColorImage.cpp is a program that takes a look at colorspace conversions in OpenCV. Run the code in ColorImage.cpp and comment on the outputs. Implement the same thing in Python and save each image.
+A1. 
+     **[ColorImage.py]**()
 
 Q2. Print out the values of the pixel at (20,25) in the RGB, YCbCr and HSV versions of the image. What are the ranges of pixel values in each channel of each of the above mentioned colorspaces?
 
