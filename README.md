@@ -18,9 +18,9 @@ order of the pixel structure?**
 **Q1. ColorImage.cpp is a program that takes a look at colorspace conversions in OpenCV. Run the code in ColorImage.cpp and comment on the outputs. Implement the same thing in Python and save each image.**
 
 **A1.** 
-* Comment on the output of ColorImage:
+#### Comment on the output of ColorImage:
 
-* Implement ColorImage.cpp in Python: 
+#### Implement ColorImage.cpp in Python: 
     
      Please check the ColorImage.py code here :link: **[ColorImage.py](https://github.com/qinjinjia/ec601_OpenCV/blob/master/ColorImage.py)**
      
