@@ -79,9 +79,9 @@ order of the pixel structure?**
 ||Saturation(20,25) |135 | 0~255|
 ||Value(20,25) |225 | 0~255|
 
+</br>
 
-
-:heavy_exclamation_mark: The range of each channel is based on CV_8U image in OpenCV
+:heavy_exclamation_mark: The range of each channel of each colorspace is based on CV_8U image in OpenCV
 
 
 |Colorspace |Channel |Range |
