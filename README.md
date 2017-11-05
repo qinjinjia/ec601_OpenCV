@@ -22,7 +22,7 @@ A1.
      
      saved image from CplorImage.py
      
-|     name     | age |             blog                |
+|     name                                                                                                                 | age |             blog                |
 | <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Blue.png" width="200" height="200"> | <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Blue.png" width="200" height="200">| <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Blue.png" width="200" height="200"> |
  
  
