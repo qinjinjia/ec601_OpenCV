@@ -1,4 +1,4 @@
-# EC601_OpenCV Exercise:thumbsup::thumbsup::thumbsup:
+# EC601_OpenCV Exercise
 ## Brief Introduction :sunglasses:
   Hello Everyone! :trollface::trollface::trollface::trollface:
   
