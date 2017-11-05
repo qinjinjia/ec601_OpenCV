@@ -51,17 +51,20 @@ A1.
 ||Value(20,25) |225 |
 
 
+CV_8U image
+
+
 |Colorspace |Channel |Range |
 |---|---|---
 |LAB |Lightness |0~100 |
-||A |-128~127 |
-||B |-128~127 |
+||A |-127~127 |
+||B |-127~127 |
 |RGB |R |0~255 |
 ||G |0~255 |
 ||B |0~255 |
-|YCbCr|Y |151 | 
-||Cb |181 |
-||Cr |103 |
+|YCbCr|Y |0~255 | 
+||Cb |0~255 |
+||Cr |0~255 |
 |HSV |Hue |0~179 |
 ||Saturation |0~255 |
 ||Value |0~255 |
