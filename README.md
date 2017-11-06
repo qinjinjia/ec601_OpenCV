@@ -12,9 +12,39 @@
 **Q1. How does a program read the cvMat object, in particular, what is the
 order of the pixel structure?**
 
-cvMat is a very old data struct written in C from OpenCV 1.x, which has been replaced by class Mat written in C++.
+**cvMat** is a very old **data struct** written in C from **OpenCV 1.x**, which has been replaced by **class Mat** written in C++.
 
-but this is an interesting question
+```
+typedef struct CvMat {
+
+int type;
+int step;
+
+int* refcount;
+
+union
+{
+    uchar* ptr;
+    short* s;
+    int* i;
+    float* fl;
+    double* db;
+} data;
+
+union
+{
+    int rows;
+    int height;
+};
+
+union
+{
+    int cols;
+    int width;
+};
+} CvMat;
+```
+
 
 </br>
 
