@@ -122,6 +122,8 @@ order of the pixel structure?**
 
 #### Gaussian Noise (mean=10, sigma=50):
 
+:full_moon_with_face: The images for **differnt Kernel Size** and **different Filter** can be found below, :point_down:    
+
 |Row\Col |Gaussian Noise |Box Filter |Gaussian Filter |Median |     
 |---|---|---|---|---    
 |Kernel 3*3 | | |**Best** | |
@@ -134,7 +136,11 @@ order of the pixel structure?**
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D7*7_mean%3D10_sigma%3D50/Gaussian%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D7*7_mean%3D10_sigma%3D50/Gaussian%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D7*7_mean%3D10_sigma%3D50/Gaussian%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D7*7_mean%3D10_sigma%3D50/Gaussian%20Noise%20-%20Median%20filter.png" width="200" height="200">
 
+</br>
+
 #### Salt-and-Pepper Noise (pa=0.05, pb=0.05):
+
+:full_moon_with_face: The images for **differnt Kernel Size** and **different Filter** can be found below, :point_down: 
 
 |Row\Col |Salt-and-Pepper Noise |Box Filter |Gaussian Filter |Median |     
 |---|---|---|---|---    
@@ -150,7 +156,7 @@ order of the pixel structure?**
 
 :sun_with_face: **In summary:**
 
-Effect of **Kernel size**: **Smaller** Kernel size, **better** result
+Effect of **Kernel size**: **Smaller** Kernel size, **better** result.
 
 |Kernel |Result |
 |---|--- 
@@ -158,13 +164,12 @@ Effect of **Kernel size**: **Smaller** Kernel size, **better** result
 |Kernel 5*5 |Well |
 |Kernel 7*7 |Good |
 
-**'Best' filter** for different types of noise: **Gaussian Filter** is good at **Gaussian Noise**, **Median Filter** does well in **Salt-and-Pepper Noise**
+**'Best' filter** for different types of noise: **Gaussian Filter** is good at **Gaussian Noise**, **Median Filter** does well in **Salt-and-Pepper Noise**.
 
 |Noise Type |Best Filter|
 |---|--- 
 |Gaussian Noise |Gaussian Filter |
 |Salt-and-Pepper Noise |Median Filter |
-
 
 </br>
 
