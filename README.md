@@ -256,7 +256,7 @@ Effect of **Kernel size**:
 #### Comment on the results for different threshold values:
 
 |Input Image || |    
-||---|--- 
+|---|---|--- 
 |Threshold Value|N/A |N/A|
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results/Input%20Image.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results_difTh/Input%20Image.png" width="200" height="200">
