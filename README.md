@@ -131,7 +131,7 @@ order of the pixel structure?**
 
 :waxing_gibbous_moon: The **Saved Images** can also be found below, :point_down:  
 
-|Row |Colorspace |Left |Mid |Right |     
+|Row\Col |1 |2 |3 |4 |     
 |---|---|---|---|---    
 |1 |Input Image|Thresholded Image |Binary threshold |Band Thresholding |
 |2 |Semi Thresholding |Adaptive Thresholding| | |
