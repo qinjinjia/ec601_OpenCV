@@ -113,6 +113,8 @@ order of the pixel structure?**
 #### Implement Noise.cpp in Python:
 :waxing_crescent_moon: Please check the **Noise.py code** here :link: **[Noise.py](https://github.com/qinjinjia/ec601_OpenCV/blob/master/Noise.py)**
 
+:full_moon_with_face: Please check the **Saved Images** from Noise.py here :link: **[exercise3_py_results](https://github.com/qinjinjia/ec601_OpenCV/tree/master/exercise3_py_results)**
+
 </br>
 
 #### Print the results for different noise values in the Gaussian Noise case:
