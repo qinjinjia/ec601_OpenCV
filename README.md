@@ -144,6 +144,8 @@ order of the pixel structure?**
 
 The main :-1: **disadvantages** of **binary threshold** is that it will force each pixel to **two extremes (i.e. 0 or 255)**, this results in many information lost. 
 
+Also, the **binary threshold** magnifies the effect of the :high_brightness: **lighting conditions**.
+
 <img src="https://docs.opencv.org/3.3.0/threshold.jpg" width="400" height="300">
 
 </br>
