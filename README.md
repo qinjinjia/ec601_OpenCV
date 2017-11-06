@@ -62,9 +62,9 @@ A program can read the cvMat object by utilzing a pointer. Channels are stored i
 
 If the type is 8 bit unsigned integer and with 3 channels, each channel occupies 8-bit space and therefore 3-channel occupies 24-bit space.
 
-|Length |8 bits |8 bits |8 bits |     
-|---|---|---|---  
-|Channel |0 |1 |2 | 
+|Length |8 bits |8 bits |8 bits |8 bits |8 bits |8 bits |... |     
+|---|---|---|--- |---|---|---|--- 
+|Channel |0 |1 |2 |0 |1 |2 |... | 
 
 
  
