@@ -255,7 +255,11 @@ Effect of **Kernel size**:
 
 #### Comment on the results for different threshold values:
 
-<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results/Input%20Image.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results_difTh/Input%20Image.png" width="200" height="200"> 
+<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results/Input%20Image.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results_difTh/Input%20Image.png" width="200" height="200">
+|Row\Col |1 |    
+|---|--- 
+|1 |Input Image|
+|2 |Semi Thresholding |
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results/Thresholded%20Image.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results_difTh/Thresholded%20Image.png" width="200" height="200">
 
