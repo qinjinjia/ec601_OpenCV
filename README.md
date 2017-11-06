@@ -119,7 +119,7 @@ order of the pixel structure?**
 
 |Row\Col |Gaussian Noise |Box Filter |Gaussian Filter |Median |     
 |---|---|---|---|---    
-|1 |mean=0, sigma=0 | | | |
+|1 |mean=0, sigma=0 | |Best | |
 |2 |mean=5, sigma=20 | | | |
 |3 |mean=10, sigma=50 | | | |
 |4 |mean=20, sigma=100 | | | |
@@ -146,6 +146,13 @@ order of the pixel structure?**
 </br>
 
 #### Print the results for different noise values in the Salt-and-Pepper Noise case:
+
+|Row\Col |Salt-and-Pepper Noise |Box Filter |Gaussian Filter |Median |     
+|---|---|---|---|---    
+|1 |pa=0.01, pb=0.01 | | |Best |
+|2 |pa=0.03, pb=0.03 | | | |
+|3 |pa=0.05, pb=0.05 | | | |
+|4 |pa=0.4, pb=0.4 | | | |
 
 :new_moon_with_face: **Salt-and-Pepper Noise Noise (pa=0.01, pb=0.01):**
 
