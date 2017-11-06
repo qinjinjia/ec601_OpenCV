@@ -37,8 +37,6 @@ order of the pixel structure?**
 ## Exercise 2
 **Q1. ColorImage.cpp is a program that takes a look at colorspace conversions in OpenCV. Run the code in ColorImage.cpp and comment on the outputs. Implement the same thing in Python and save each image.**
 
-#### Comment on the output of ColorImage:
-
 
 #### Implement ColorImage.cpp in Python:  
 
@@ -62,6 +60,12 @@ order of the pixel structure?**
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Y.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Cb.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Cr.png" width="200" height="200">
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Hue.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Saturation.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise2_py_results/Value.png" width="200" height="200">
+
+</br>
+
+#### Comment on the output of ColorImage:
+
+Colorspaces refer to systems for representing the colors to be used for sensing, representation and on a computer display. Red, green, and blue can be combined in various proportions to obtain any color in the visible spectrum. Hue, Saturation, Value can also be combined in various proportions to obtain the same color. In addition to this, many othre colorspaces can also be used to represent the same color. However, different image operation   
 
 </br>
 
