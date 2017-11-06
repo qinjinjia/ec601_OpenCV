@@ -150,7 +150,7 @@ order of the pixel structure?**
 
 :sun_with_face: **In summary:**
 
-Effect of Kernel size:
+Effect of **Kernel size**: **Smaller** Kernel size, **better** result
 
 |Kernel |Result |
 |---|--- 
@@ -158,7 +158,7 @@ Effect of Kernel size:
 |Kernel 5*5 |Well |
 |Kernel 7*7 |Good |
 
-'Best' filter for different types of noise:
+**'Best' filter** for different types of noise: **Gaussian Filter** is good at **Gaussian Noise**, **Median Filter** does well in **Salt-and-Pepper Noise**
 
 |Noise Type |Best Filter|
 |---|--- 
