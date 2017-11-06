@@ -126,12 +126,12 @@ order of the pixel structure?**
 
 :waxing_gibbous_moon: **Gaussian Noise (mean=10, sigma=50)**
 
-<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise%20-%20Median%20filter.png" width="200" height="200">
+<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D10_sigma%3D50/Gaussian%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D10_sigma%3D50/Gaussian%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D10_sigma%3D50/Gaussian%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D10_sigma%3D50/Gaussian%20Noise%20-%20Median%20filter.png" width="200" height="200">
 
 
 :full_moon: **Gaussian Noise (mean=20, sigma=100)**
 
-<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise%20-%20Median%20filter.png" width="200" height="200">
+<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D20_sigma%3D100/Gaussian%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D20_sigma%3D100/Gaussian%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D20_sigma%3D100/Gaussian%20Noise%0-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D20_sigma%3D100/Gaussian%20Noise%20-%20Median%20filter.png" width="200" height="200">
 
 
 </br>
