@@ -124,9 +124,9 @@ order of the pixel structure?**
 
 |Row\Col |Gaussian Noise |Box Filter |Gaussian Filter |Median |     
 |---|---|---|---|---    
-|Kernel 3*3 | | | | |
-|Kernel 5*5 | | | | |
-|Kernel 7*7 | | | | |
+|Kernel 3*3 | | |Best | |
+|Kernel 5*5 | | |Well | |
+|Kernel 7*7 | | |Good | |
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D3*3_mean%3D10_sigma%3D50/Gaussian%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D3*3_mean%3D10_sigma%3D50/Gaussian%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D3*3_mean%3D10_sigma%3D50/Gaussian%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D3*3_mean%3D10_sigma%3D50/Gaussian%20Noise%20-%20Median%20filter.png" width="200" height="200">
 
