@@ -60,14 +60,14 @@ union
 ```
 A program can read the cvMat object by utilzing a pointer. Channels are stored interleaved. That is, if you have a 3 channel matrix, say representing the RGB components of an image, then it will be stored as rgbrgbrgb.  Taking this into account when doing the pointer arithmetic.
 
-If the type is 8 bit unsigned integer and with 3 channels, each channel occupies 8-bit space and therefore 3-channel occupies 24-bit space.
+If the type is 8 bit unsigned integer and with 3 channels, each channel occupies 8-bit space and therefore 3-channel occupies 24-bit space. Then, the order of pixel structure would be like this,
 
 |Length |8 bits |8 bits |8 bits |8 bits |8 bits |8 bits |... |     
 |---|---|---|--- |---|---|---|--- 
 |Channel |0 |1 |2 |0 |1 |2 |... | 
 
+We can think it like rgbrgbrgbrgb...
 
- 
 
 **Ref1:** [CvMat Struct Reference](http://docs.ros.org/diamondback/api/opencv2/html/c++/structCvMat.html) (accessed on Nov. 5, 2017)
 
