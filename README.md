@@ -12,25 +12,9 @@
 **Q1. How does a program read the cvMat object, in particular, what is the
 order of the pixel structure?**
 
-```
-[[[125 137 226]
-  [125 137 226]
-  [133 137 223]
-  ..., 
-  [122 148 230]
-  [110 130 221]
-  [ 90  99 200]]
+cvMat is a very old data struct written in C from OpenCV 1.x, which has been replaced by class Mat written in C++.
 
-  ......,
-  
- [[ 57  22  82]
-  [ 57  22  82]
-  [ 62  32  96]
-  ..., 
-  [ 79  70 179]
-  [ 81  71 181]
-  [ 81  74 185]]]
-```
+but this is an interesting question
 
 </br>
 
