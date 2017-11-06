@@ -154,6 +154,8 @@ order of the pixel structure?**
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D7*7_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D7*7_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D7*7_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D7*7_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise%20-%20Median%20filter.png" width="200" height="200">
 
+</br>
+
 :sun_with_face: **In summary:**
 
 Effect of **Kernel size**: 
