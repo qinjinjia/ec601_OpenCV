@@ -133,10 +133,15 @@ order of the pixel structure?**
 
 #### Kernel Size 3*3 (Salt-and-Pepper Noise Noise pa=0.05, pb=0.05):
 
+<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D3*3_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D3*3_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D3*3_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D3*3_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise%20-%20Median%20filter.png" width="200" height="200">
+
 #### Kernel Size 5*5 (Salt-and-Pepper Noise Noise pa=0.05, pb=0.05):
+
+<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D3*3_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D5*5_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D5*5_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D5*5_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise%20-%20Median%20filter.png" width="200" height="200">
 
 #### Kernel Size 7*7 (Salt-and-Pepper Noise Noise pa=0.05, pb=0.05):
 
+<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D7*7_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D7*7_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D7*7_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_kernel%3D7*7_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise%20-%20Median%20filter.png" width="200" height="200">
 
 </br>
 
