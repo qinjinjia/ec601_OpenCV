@@ -50,7 +50,7 @@ order of the pixel structure?**
 
 :bangbang: N.B. The images are shown in **1-channel greyscale** format
 
-|Row |Colorspace |Left |Mid |Right |     
+|Row\Col |Colorspace |Left |Mid |Right |     
 |---|---|---|---|---    
 |1 |RBG |Blue |Green |Red |
 |2 |YCbCr |Y |Cb |Cr |
