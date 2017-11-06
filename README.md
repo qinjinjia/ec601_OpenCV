@@ -15,6 +15,20 @@ order of the pixel structure?**
 **cvMat** is a very old **data struct** written in C from **OpenCV 1.x**, which has been replaced by **class Mat** written in C++.
 
 ```
+CvMat                      // 2D array
+  |-- int   type;          // elements type (uchar,short,int,float,double) and flags
+  |-- int   step;          // full row length in bytes
+  |-- int   rows, cols;    // dimensions
+  |-- int   height, width; // alternative dimensions reference
+  |-- union data;
+      |-- uchar*  ptr;     // data pointer for an unsigned char matrix
+      |-- short*  s;       // data pointer for a short matrix
+      |-- int*    i;       // data pointer for an integer matrix
+      |-- float*  fl;      // data pointer for a float matrix
+      |-- double* db;      // data pointer for a double matrix
+```
+
+```
 typedef struct CvMat {
 
 int type;
@@ -44,7 +58,20 @@ union
 };
 } CvMat;
 ```
+A program can read the cvMat object by utilzing a pointer. Channels are stored interleaved. That is, if you have a 3 channel matrix, say representing the RGB components of an image, then it will be stored as rgbrgbrgb.  Taking this into account when doing the pointer arithmetic.
 
+If the type is 8 bit unsigned integer and with 3 channels, each channel occupies 8-bit space and therefore 3-channel occupies 24-bit space.
+
+|Length |8 bits |8 bits |8 bits |     
+|---|---|---|---  
+|Channel |0 |1 |2 | 
+
+
+ 
+
+**Ref1:** [CvMat Struct Reference](http://docs.ros.org/diamondback/api/opencv2/html/c++/structCvMat.html) (accessed on Nov. 5, 2017)
+
+**Ref2:** [Accessing image elements](http://www.cs.iit.edu/~agam/cs512/lect-notes/opencv-intro/opencv-intro.html#SECTION00053000000000000000) (accessed on Nov. 5, 2017)
 
 </br>
 
