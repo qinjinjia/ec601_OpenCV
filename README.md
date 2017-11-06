@@ -113,7 +113,11 @@ order of the pixel structure?**
 #### Implement Noise.cpp in Python:
 :waxing_crescent_moon: Please check the **Noise.py code** here :link: **[Noise.py](https://github.com/qinjinjia/ec601_OpenCV/blob/master/Noise.py)**
 
-#### Comment on the output of ColorImage:
+#### Print the results for different noise values in the Gaussian Noise case:
+
+
+#### Print the results for different noise values in the Salt-and-Pepper Noise case:
+
 
 </br>
 
