@@ -113,23 +113,25 @@ order of the pixel structure?**
 #### Implement Noise.cpp in Python:
 :waxing_crescent_moon: Please check the **Noise.py code** here :link: **[Noise.py](https://github.com/qinjinjia/ec601_OpenCV/blob/master/Noise.py)**
 
+</br>
+
 #### Print the results for different noise values in the Gaussian Noise case:
 
-:new_moon_with_face: **Gaussian Noise (mean=0, sigma=0)**
+:new_moon_with_face: **Gaussian Noise (mean=0, sigma=0):**
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise%20-%20Median%20filter.png" width="200" height="200">
 
-:first_quarter_moon: **Gaussian Noise (mean=5, sigma=20)**
+:first_quarter_moon: **Gaussian Noise (mean=5, sigma=20):**
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D5_sigma%3D20/Gaussian%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D5_sigma%3D20/Gaussian%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D5_sigma%3D20/Gaussian%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D5_sigma%3D20/Gaussian%20Noise%20-%20Median%20filter.png" width="200" height="200">
 
 
-:waxing_gibbous_moon: **Gaussian Noise (mean=10, sigma=50)**
+:waxing_gibbous_moon: **Gaussian Noise (mean=10, sigma=50):**
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D10_sigma%3D50/Gaussian%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D10_sigma%3D50/Gaussian%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D10_sigma%3D50/Gaussian%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D10_sigma%3D50/Gaussian%20Noise%20-%20Median%20filter.png" width="200" height="200">
 
 
-:full_moon: **Gaussian Noise (mean=20, sigma=100)**
+:full_moon: **Gaussian Noise (mean=20, sigma=100):**
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D20_sigma%3D100/Gaussian%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D20_sigma%3D100/Gaussian%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D20_sigma%3D100/Gaussian%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D20_sigma%3D100/Gaussian%20Noise%20-%20Median%20filter.png" width="200" height="200">
 
@@ -138,13 +140,21 @@ order of the pixel structure?**
 
 #### Print the results for different noise values in the Salt-and-Pepper Noise case:
 
-:new_moon_with_face: **Salt-and-Pepper Noise Noise (pa=0.01, pb=0.01)**
+:new_moon_with_face: **Salt-and-Pepper Noise Noise (pa=0.01, pb=0.01):**
 
-:first_quarter_moon: **Salt-and-Pepper Noise Noise (pa=0.03, pb=0.03)**
+<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_pa%3D0.01_pb%3D0.01/Salt%20and%20Pepper%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_pa%3D0.01_pb%3D0.01/Salt%20and%20Pepper%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_pa%3D0.01_pb%3D0.01/Salt%20and%20Pepper%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_pa%3D0.01_pb%3D0.01/Salt%20and%20Pepper%20Noise%20-%20Median%20filter.png" width="200" height="200">
 
-:waxing_gibbous_moon: **Salt-and-Pepper Noise Noise (pa=0.05, pb=0.05)**
+:first_quarter_moon: **Salt-and-Pepper Noise Noise (pa=0.03, pb=0.03):**
 
-:full_moon: **Salt-and-Pepper Noise Noise (pa=0.4, pb=0.4)**
+<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_pa%3D0.03_pb%3D0.03/Salt%20and%20Pepper%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_pa%3D0.03_pb%3D0.03/Salt%20and%20Pepper%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_pa%3D0.03_pb%3D0.03/Salt%20and%20Pepper%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_pa%3D0.03_pb%3D0.03/Salt%20and%20Pepper%20Noise%20-%20Median%20filter.png" width="200" height="200">
+
+:waxing_gibbous_moon: **Salt-and-Pepper Noise Noise (pa=0.05, pb=0.05):**
+
+<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_pa%3D0.05_pb%3D0.05/Salt%20and%20Pepper%20Noise%20-%20Median%20filter.png" width="200" height="200">
+
+:full_moon: **Salt-and-Pepper Noise Noise (pa=0.4, pb=0.4):**
+
+<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_pa%3D0.4_pb%3D0.4/Salt%20and%20Pepper%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_pa%3D0.4_pb%3D0.4/Salt%20and%20Pepper%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_pa%3D0.4_pb%3D0.4/Salt%20and%20Pepper%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_pa%3D0.4_pb%3D0.4/Salt%20and%20Pepper%20Noise%20-%20Median%20filter.png" width="200" height="200">
 
 </br>
 
