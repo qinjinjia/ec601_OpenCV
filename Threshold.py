@@ -2,7 +2,7 @@
 
 """ EC601_OpenCV_Exercise 4 Threshold
     type python Threshold.py IMAGE_NAME in terminal to run
-    python Threshold.py cameraman.png, for instance"""
+    python Threshold.py baboon.jpg, for instance"""
 
 import sys
 import cv2
