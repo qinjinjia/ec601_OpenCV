@@ -255,16 +255,16 @@ Effect of **Kernel size**:
 
 #### Comment on the results for different threshold values:
 
-|Input Image || |    
-|---|---|--- 
-|Threshold Value|N/A |N/A|
+|Row/Col |Th before |Th after |Comment |   
+|---|---|---|--- 
+|Input Image|N/A |N/A|  |
+|Thresholded Image|threshold_value = 128 |threshold_value = 200| |
+|Binary threshold|current_threshold = 128|current_threshold = 200 | |
+|Band Thresholding|threshold1, threshold2 = 27, 125 |threshold1, threshold2 = 75, 100 | |
+|Semi Thresholding|current_threshold = 128 |current_threshold = 200  | |
+|Adaptive Thresholding|101, 10 |71, 30|  |
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results/Input%20Image.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results_difTh/Input%20Image.png" width="200" height="200">
-
-|Row\Col |1 |    
-|---|--- 
-|1 |Input Image|
-|2 |Semi Thresholding |
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results/Thresholded%20Image.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results_difTh/Thresholded%20Image.png" width="200" height="200">
 
