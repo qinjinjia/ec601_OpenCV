@@ -115,9 +115,31 @@ order of the pixel structure?**
 
 #### Print the results for different noise values in the Gaussian Noise case:
 
+:new_moon_with_face: **Gaussian Noise (mean=0, sigma=0)**
+
+img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise%20-%20Median%20filter.png" width="200" height="200">
+
+:first_quarter_moon: **Gaussian Noise (mean=5, sigma=20)**
+
+
+
+:waxing_gibbous_moon: **Gaussian Noise (mean=10, sigma=50)**
+
+
+
+:full_moon: **Gaussian Noise (mean=20, sigma=100)**
+
+</br>
 
 #### Print the results for different noise values in the Salt-and-Pepper Noise case:
 
+:new_moon_with_face: **Salt-and-Pepper Noise Noise (pa=0.01, pb=0.01)**
+
+:first_quarter_moon: **Salt-and-Pepper Noise Noise (pa=0.03, pb=0.03)**
+
+:waxing_gibbous_moon: **Salt-and-Pepper Noise Noise (pa=0.05, pb=0.05)**
+
+:full_moon: **Salt-and-Pepper Noise Noise (pa=0.4, pb=0.4)**
 
 </br>
 
