@@ -166,6 +166,8 @@ Effect of **Kernel size**:
 |Kernel 5*5 |Well |
 |Kernel 7*7 |Good |
 
+</br>
+
 **'Best' filter** for different types of noise:
 
 **Gaussian Filter** is good at **Gaussian Noise**, **Median Filter** does well in **Salt-and-Pepper Noise**.
