@@ -124,6 +124,10 @@ order of the pixel structure?**
 ## Exercise 4
 **Q1. Look at Threshold.cpp and implement the code in Python, and observe the results for different threshold values. Comment on the results.**
 
+#### Implement Threshold.cpp in Python:
+:waxing_crescent_moon: Please check the **Threshold.py code** here :link: **[Threshold.py](https://github.com/qinjinjia/ec601_OpenCV/blob/master/Threshold.py)**
+
+
 </br>
 
 **Q2. What are the disadvantages of binary threshold?**
