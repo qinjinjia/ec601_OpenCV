@@ -122,7 +122,7 @@ order of the pixel structure?**
 
 #### Gaussian Noise (mean=10, sigma=50):
 
-:full_moon_with_face: The images for **differnt Kernel Size** and **different Filter** can be found below, :point_down:    
+:sun_with_face: The images for **differnt Kernel Size** and **different Filter** can be found below, :point_down:    
 
 |Row\Col |Gaussian Noise |Box Filter |Gaussian Filter |Median |     
 |---|---|---|---|---    
