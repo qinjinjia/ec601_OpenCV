@@ -127,6 +127,13 @@ order of the pixel structure?**
 #### Implement Threshold.cpp in Python:
 :waxing_crescent_moon: Please check the **Threshold.py code** here :link: **[Threshold.py](https://github.com/qinjinjia/ec601_OpenCV/blob/master/Threshold.py)**
 
+:first_quarter_moon: Please check the **Saved Images** from Threshold.py here :link: **[exercise4_py_results](https://github.com/qinjinjia/ec601_OpenCV/tree/master/exercise4_py_results)**
+
+:waxing_gibbous_moon: The **Saved Images** can also be found below, :point_down:  
+
+
+####  in Python:
+https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results/Input%20Image.png
 
 </br>
 
