@@ -257,12 +257,12 @@ Effect of **Kernel size**:
 
 |Row/Col |Th before |Th after |Comment |   
 |---|---|---|--- 
-|Input Image|N/A |N/A|  |
-|Thresholded Image|threshold_value = 128 |threshold_value = 200| |
-|Binary threshold|current_threshold = 128|current_threshold = 200 | |
-|Band Thresholding|threshold1, threshold2 = 27, 125 |threshold1, threshold2 = 75, 100 | |
-|Semi Thresholding|current_threshold = 128 |current_threshold = 200  | |
-|Adaptive Thresholding|101, 10 |71, 30|  |
+|Input Image|N/A |N/A |N/A |
+|Thresholded Image|threshold_value = 128 |threshold_value = 200|Less pixels are truncated |
+|Binary threshold|current_threshold = 128|current_threshold = 200 |More pixels are forced to 255|
+|Band Thresholding|threshold1, threshold2 = 27, 125 |threshold1, threshold2 = 75, 100 |More pixels are forced to 255|
+|Semi Thresholding|current_threshold = 128 |current_threshold = 200  |N/A |
+|Adaptive Thresholding|101, 10 |71, 30|Brighter |
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results/Input%20Image.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results_difTh/Input%20Image.png" width="200" height="200">
 
