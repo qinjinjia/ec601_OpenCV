@@ -142,6 +142,9 @@ order of the pixel structure?**
 
 **Q2. What are the disadvantages of binary threshold?**
 
+<img src="https://docs.opencv.org/3.3.0/threshold.jpg" width="400" height="300">
+
+
 </br>
 
 **Q3. When is Adaptive Threshold useful?**
