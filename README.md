@@ -67,7 +67,7 @@ order of the pixel structure?**
 
 Colorspaces refer to **systems for representing the colors** to be used for sensing, representation and on a computer display. Red, green, and blue can be combined in various proportions to obtain any color in the visible spectrum. Hue, Saturation, Value can also be combined in various proportions to obtain the same color. In addition to this, many othre colorspaces can also be used to represent the same color. A colorspace can be converted to another colorspace easily. 
 
-Different image operation can be achieved by utilizing its most suitable colorspace. For instance, if one want to change the saturation of an RGB image, converting RGB image to HSV colorspace and then manipulating the S channel would be easier than operating image in RGB colorspace.      
+Different image operation can be achieved by utilizing the most suitable colorspace. For instance, if one want to change the saturation of an RGB image, converting RGB image to HSV colorspace and then manipulating the S channel would be easier than operating image in RGB colorspace.      
 
 </br>
 
