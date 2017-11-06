@@ -148,7 +148,7 @@ order of the pixel structure?**
 
 Using a **global value** as threshold value is **not** good in all the conditions where image has different :high_brightness: lighting conditions in different areas. However, the algorithm of **adaptive thresholding** calculates the threshold for a small regions of the image (i.e. different thresholds for different regions of the same image).  Therefore, **adaptive thresholding** would be useful for images with **varying illumination**.
 
-Below piece of code compares global thresholding and adaptive thresholding for an image with varying illumination **[Ref]**:
+Below piece of code compares global thresholding and adaptive thresholding for an image with varying illumination **[Ref](https://docs.opencv.org/trunk/d7/d4d/tutorial_py_thresholding.html)**:
 
 ```
 import cv2
