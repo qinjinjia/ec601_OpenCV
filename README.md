@@ -168,6 +168,7 @@ for i in xrange(4):
 plt.show()
 ```
 Result:
+
 <img src="https://docs.opencv.org/trunk/ada_threshold.jpg" width="500" height="500">
 
 
