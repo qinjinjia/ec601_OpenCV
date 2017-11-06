@@ -253,6 +253,8 @@ Effect of **Kernel size**:
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results/Input%20Image.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results/Thresholded%20Image.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results/Binary%20threshold.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results/Band%20Thresholding.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results/Semi%20Thresholding.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise4_py_results/Adaptive%20Thresholding.png" width="200" height="200">
 
+</br>
+
 #### Comment on the results for different threshold values:
 
 |Row/Col |Th before |Th after |Comment |   
