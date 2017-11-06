@@ -117,6 +117,13 @@ order of the pixel structure?**
 
 #### Print the results for different noise values in the Gaussian Noise case:
 
+|Row\Col |Gaussian Noise |Box Filter |Gaussian Filter |Median |     
+|---|---|---|---|---    
+|1 |mean=0, sigma=0 | | | |
+|2 |mean=5, sigma=20 | | | |
+|3 |mean=10, sigma=50 | | | |
+|4 |mean=20, sigma=100 | | | |
+
 :new_moon_with_face: **Gaussian Noise (mean=0, sigma=0):**
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise%20-%20Box%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise%20-%20Gaussian%20filter.png" width="200" height="200"> <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/exercise3_py_mean%3D0_sigma%3D0/Gaussian%20Noise%20-%20Median%20filter.png" width="200" height="200">
