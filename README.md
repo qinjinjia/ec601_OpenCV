@@ -375,7 +375,7 @@ Result:
 
 ## Template Matching Exercise
 
-<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/TemplateMatching/match_img.jpg" width="400" height="200">
+<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/TemplateMatching/match_img.jpg" width="400" height="300">
 
 
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
