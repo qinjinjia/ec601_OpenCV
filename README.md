@@ -375,10 +375,10 @@ Result:
 
 ## Template Matching Exercise
 
-:waxing_crescent_moon: Please check the **TemplateMatching.py code** here :link: **[TemplateMatching.py]
-(https://github.com/qinjinjia/ec601_OpenCV/blob/master/TemplateMatching/TemplateMatching.py)**
+:waxing_crescent_moon: Please check the **TemplateMatching.py code** here :link: **[TemplateMatching.py](https://github.com/qinjinjia/ec601_OpenCV/blob/master/TemplateMatching/TemplateMatching.py)**
 
 :full_moon_with_face: Please check the **Saved Images** from TemplateMatching.py here :link: **[match_img.jpg](https://github.com/qinjinjia/ec601_OpenCV/blob/master/TemplateMatching/match_img.jpg)**
+
 
 <img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/TemplateMatching/match_img.jpg" width="400" height="300">
 
