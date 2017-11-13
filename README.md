@@ -371,4 +371,11 @@ Result:
 
 **Ref:** [OpenCV Documentation - Image Thresholding](https://docs.opencv.org/trunk/d7/d4d/tutorial_py_thresholding.html) (accessed on Nov. 5, 2017)
 
+</br>
+
+## Template Matching Exercise
+
+<img src="https://github.com/qinjinjia/ec601_OpenCV/blob/master/TemplateMatching/match_img.jpg" width="300" height="400">
+
+
 :trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
