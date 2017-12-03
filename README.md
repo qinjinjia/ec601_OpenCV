@@ -345,7 +345,7 @@ Using a **global value** as threshold value is **not** good in all the condition
 
 Below piece of code compares global thresholding and adaptive thresholding for an image with varying illumination **[[Ref]](https://docs.opencv.org/trunk/d7/d4d/tutorial_py_thresholding.html)**:
 
-```
+```python
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
